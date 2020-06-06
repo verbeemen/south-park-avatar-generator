@@ -10,7 +10,7 @@ This project contains out of 2 main parts:
    
    
  - A class which is able to generate (random) south park cartoons. 
-   - cartoon_generator.ipynb
+   - southParkAvatarGenerator.ipynb
    - southParkAvatarGenerator.py
   
   
