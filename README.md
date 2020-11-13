@@ -1,6 +1,6 @@
 # South-Park Avatar Generator
 
-The goal of this project is to create a small South-Park Avatar generator which we can later use into another project.  
+The goal of this project is to create a small South-Park Avatar generator. This generator can later be used in other projects...
 (more specifically: https://arxiv.org/pdf/1711.05139.pdf)
 
 This project contains out of 2 main parts:
